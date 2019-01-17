@@ -70,6 +70,12 @@ Design patterns are not limited to Object Orientation. JavaScript has design pat
 - Publisher Subscriber
 ```
 
+# Directions
+
+Always look inside the folder and check for the .md file. This will give you further instructions and background information on the files in that directory so you will be able to understand how to run the examples.
+
+The .md files are your friends! 
+
 Go ahead and get coding!
 
 - A$h

@@ -49,3 +49,8 @@ that wishes to consume it.
 >> v3/Store.js
 >> v3/Shopper.js
 >> v3/index.js
+
+
+# Alternative Shorthand
+
+Here's a great way to create a Singleton without adding on an extra seperate method as shown in /v2. The trick I used was to basically use the logic that IF no instance exists, then to create one and return it immediately. ELSE, an instance MUST exist so just return that one immediately. This is much faster and CLEANER than having to chain a seperate method on to the end of the constructor function as shown in /v2.
