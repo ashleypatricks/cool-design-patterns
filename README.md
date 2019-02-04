@@ -1,6 +1,6 @@
 # DESIGN PATTERNS
 
-This repo is a collection of Design Patterns which I am studying and putting up here to share with other developers who want to learn and use them in their applications.
+This repository is a collection of Design Patterns which I am studying and putting up here to share with other developers who want to learn and use them in their applications.
 
 As I learn more Design Patterns, they will appear here in this repo. Feel free to share, use, and improve on them.
 

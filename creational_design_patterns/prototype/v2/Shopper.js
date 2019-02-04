@@ -43,7 +43,7 @@ class Shopper{
             2) Now, create a new object based off of the prototype that was just saved above.
        */
         let cloned = Object.create(proto);
-
+        
       /*
             3) Grab the data of the current instance.
 
