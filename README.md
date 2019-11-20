@@ -1,4 +1,4 @@
-# DESIGN PATTERNS
+# Design Patterns
 
 Why re-invent the wheel? Perhaps your challenging problem has already been solved... 
 
