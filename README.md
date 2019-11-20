@@ -1,14 +1,14 @@
 # DESIGN PATTERNS
 
-This repository is a collection of Design Patterns which I am studying and putting up here to share with other developers who want to learn and use them in their applications.
+Why re-invent the wheel? Perhaps your challenging problem has already been solved... 
 
-As I learn more Design Patterns, they will appear here in this repo. Feel free to share, use, and improve on them.
+Use these design patterns in-app where the problems occur.
 
-Every day that we build programs we are usually presented with a lot of challenging problems. Especially problems that someone has already probably solved. When presented with reoccurring problems we are faced with a decision to solve the problem again and again for each application where the problem occurs, or solve the problem once and for all with an improved solution - a pattern. You can use these patterns over and over again in any application where the problem occurs. These are known as Design Patterns.
+Reusable, reliable solutions which are well documented & easy to discuss. Improved code, less brittle apps, easier feature increments. 
 
-They are reusable, reliable solutions to problems that we face everyday in software development. They are catalogued, well tested, well documented and easy to talk about with other engineers who already know them. They make your code better and applications less brittle. They make it easier to add features and modules to applications where you use them. It can be difficult to learn some of them but ultimately they simplify your code. They are designed to present solutions for decoupling objects or modules and reducing the overall complexity of your architecture. They will make you a better programmer overall as you will have better techniques for solving common problems, plus a better knowledge base.
+Some patterns can be challenging, however your code will become simplified.
 
-To start off with, I will be learning and sharing 3 different categories within this repo:
+Patterns are designed to present solutions for decoupling objects or modules and reducing the overall complexity of your architecture. Better techniques for solving common problems = better overall programmer, better knowledge base.
 
 ## Creational
 
@@ -72,10 +72,4 @@ Design patterns are not limited to Object Orientation. JavaScript has design pat
 
 # Directions
 
-Always look inside the folder and check for the .md file. This will give you further instructions and background information on the files in that directory so you will be able to understand how to run the examples.
-
-The .md files are your friends! 
-
-Go ahead and get coding!
-
-A$h
+Read the .md files.
